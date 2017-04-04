@@ -1,4 +1,4 @@
-Git
+﻿Git
 Centralizado=> Faz upload no momento do arquivo (SVN) controle de versão 
 dos arquivos do repositorio de na cog. Commit sempre realizado no servidor
 
@@ -13,4 +13,5 @@ para o servidor
 2 - Changes to be commited -> pronto para ser comitado
 
 3 -  Arquivo já commitado
+
 
